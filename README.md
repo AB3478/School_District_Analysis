@@ -9,12 +9,12 @@ The Chief Data Scientist for a city school district has requested assistance wit
 ## Resources
 - Data sources: schools_complete.csv, students_complete.csv 
 
-## Analysis of the election determined that:
+## Analysis of the school data determined that:
 
  
  ## Challenge Overview
- 
+ - There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data
 
  
  ## Challenge Summary
-
+ - There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced 
