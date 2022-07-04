@@ -7,7 +7,7 @@ The Chief Data Scientist for a city school district has requested assistance wit
 2. Get a complete list of candidates who received votes.
 
 ## Resources
-- Data source: election_results.csv
+- Data sources: schools_complete.csv, students_complete.csv 
 
 ## Analysis of the election determined that:
 
