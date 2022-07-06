@@ -11,7 +11,7 @@ The school board subsequently notified the Chief Data Scientist that the ninth g
 - Python 4.13.0 
 
 ## Analysis of the school data determined that:
-- The overall district summary dropped slightly as a result of replacing Thomas High School’s 9th grade reading and math scores with NaNs. There was less than a percentage point change across each category:
+The overall district summary dropped slightly as a result of replacing Thomas High School’s 9th grade reading and math scores with NaNs. There was less than a percentage point change across each category:
 
 #### Overall District Scores
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Overall1.png)
@@ -19,7 +19,7 @@ The school board subsequently notified the Chief Data Scientist that the ninth g
 #### Updated District Scores
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Overall2.png)
 
--	Outside of Thomas High School’s 9th grade class, no other math or reading scores were impacted
+Outside of Thomas High School’s 9th grade class, no other math or reading scores were impacted
 
 #### Initial Math and Reading Scores by Grade
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Math_by_Grade1.png)
@@ -29,7 +29,7 @@ The school board subsequently notified the Chief Data Scientist that the ninth g
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Math_by_Grade2.png)
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Reading_by_Grade2.png)
 
-- The top five and bottom schools remained the same. Thomas High School remained in the top 5, despite adding NaNs to the 9th grade class and subsequently lower overall reading and math scores.
+The top five and bottom schools remained the same. Thomas High School remained in the top 5, despite adding NaNs to the 9th grade class and subsequently lower overall reading and math scores.
 
 #### Top Five Schools
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Top_5_1.png)
@@ -37,7 +37,7 @@ The school board subsequently notified the Chief Data Scientist that the ninth g
 #### Updated Top Schools
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Top_5_2.png)
 
--	School spending should not have changed. Although an error is indicated for the updated passing math and reading percentages. 
+School spending should not have changed. Although an error is indicated for the updated passing math and reading percentages. 
 
 #### Overall Spending
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Spending1.png)
@@ -45,7 +45,7 @@ The school board subsequently notified the Chief Data Scientist that the ninth g
 #### Updated Spending
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Spending2.png)
 
-- Scores by school size should not have changed either. Although an error is indicated for the updated passing math and reading percentages.
+Scores by school size should not have changed either. Although an error is indicated for the updated passing math and reading percentages.
 
 #### Scores by School Size
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Size1.png)
@@ -53,7 +53,7 @@ The school board subsequently notified the Chief Data Scientist that the ninth g
 #### Updated Scores by School Size
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Size2.png)
 
-- Scores by school type also did not change.
+Scores by school type also did not change.
 
 #### Scores by School Type
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Type1.png)
