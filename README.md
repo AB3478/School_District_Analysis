@@ -19,8 +19,10 @@ The Chief Data Scientist for a city school district has requested assistance wit
 
 -	Outside of Thomas High School’s 9th grade class, no other math or reading scores were impacted
 
-#### Initial Scores by Grade
-![](
+#### Initial Math and Reading Scores by Grade
+![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Math_by_Grade1.png)
+![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Reading_by_Grade1.png)
 
-#### Updated Scores by Grade
-![](
+#### Updated Math and Reading Scores by Grade
+![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Math_by_Grade2.png)
+![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Reading_by_Grade2.png)
