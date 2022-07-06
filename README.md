@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Project Overview
-The Chief Data Scientist for a city school district has requested assistance with aggregating school related data, including standardized test scores and student funding. The goal of this analysis is to highlight performance trends and patterns across the schools. The school board subsequently notified the Chief Data Scientist that the ninth grade reading and math scores for Thomas High School were possibly altered. She requested that those scores be replaced with NaNs while keeping the rest of the data intact. The following analysis should help inform discussions and strategic decisions at the school and district level.
+The Chief Data Scientist for a city school district has requested assistance with aggregating school related data, including standardized test scores and student funding. The goal of this analysis is to highlight performance patterns across the schools and help inform discussions and strategic decisions at the school and district level. The school board subsequently notified the Chief Data Scientist that the ninth grade reading and math scores for Thomas High School were possibly altered. She requested that those scores be replaced with NaNs while keeping the rest of the data intact.
 
 ## Resources
 - Data sources: schools_complete.csv, students_complete.csv 
