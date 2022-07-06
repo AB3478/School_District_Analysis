@@ -9,10 +9,18 @@ The Chief Data Scientist for a city school district has requested assistance wit
 - Python 4.13.0 
 
 ## Analysis of the school data determined that:
-The overall district summary dropped slightly as a result of replacing Thomas High School’s 9th grade reading and math scores with NaNs. There was less than a percentage point change across each category:
+- The overall district summary dropped slightly as a result of replacing Thomas High School’s 9th grade reading and math scores with NaNs. There was less than a percentage point change across each category:
 
 #### Overall District Scores
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Overall1.png)
 
 #### Updated District Scores
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Overall2.png)
+
+-	Outside of Thomas High School’s 9th grade class, no other math or reading scores were impacted
+
+#### Initial Scores by Grade
+![](
+
+#### Updated Scores by Grade
+![](
