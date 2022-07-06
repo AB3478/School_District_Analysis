@@ -60,3 +60,12 @@ The school board subsequently notified the Chief Data Scientist that the ninth g
 
 #### Updated Scores by School Type
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Type2.png)
+
+## Challenge Summary
+There were four key changes in the updated school district analysis following the replacment of Thomas High Schools 9th grade math and reading scores:
+  
+  -
+  -
+  -
+  -
+
