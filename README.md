@@ -36,3 +36,12 @@ The school board subsequently notified the Chief Data Scientist that the ninth g
 
 #### Updated Top Schools
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Top_5_2.png)
+
+-	School spending should not have changed. Although an error is indicated for updated passing math and reading percentages. 
+
+#### Overall Spending
+![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Spending1.png)
+
+#### Updated Spending
+![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Spending2.png)
+
