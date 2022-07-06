@@ -28,3 +28,11 @@ The school board subsequently notified the Chief Data Scientist that the ninth g
 #### Updated Math and Reading Scores by Grade
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Math_by_Grade2.png)
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Reading_by_Grade2.png)
+
+- The top five and bottom schools remained the same. Thomas High School remained in the top 5, despite adding NaNs to the 9th grade class and subsequently lower overall reading and math scores.
+
+#### Top Five Schools
+![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Top_5_1.png)
+
+#### Updated Top Schools
+![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Top_5_2.png)
