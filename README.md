@@ -19,7 +19,7 @@ The overall district summary dropped slightly as a result of replacing Thomas Hi
 #### Updated District Scores
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Overall2.png)
 
-Outside of Thomas High School’s 9th grade class, no other math or reading scores were impacted
+Outside of Thomas High School’s 9th grade class, no other math or reading scores were impacted:
 
 #### Initial Math and Reading Scores by Grade
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Math_by_Grade1.png)
