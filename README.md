@@ -40,8 +40,8 @@ Outside of Thomas High School’s 9th grade class, no other math or reading scor
 ## Challenge Summary
 There were four key changes in the updated school district analysis following the replacment of Thomas High Schools 9th grade math and reading scores:
   
-  -
-  -
-  -
-  -
+  - The school district average math score dropped from 79 to 78.9.
+  - The school district percentage of students passing math dropped from 75 to 74.8.
+  - The school district percentage of students passing reading dropped from 86 to 85.7.
+  - The school districts overall percentage of passing students also dropped from 65 to 64.9.
 
