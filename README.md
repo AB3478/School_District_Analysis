@@ -29,37 +29,10 @@ Outside of Thomas High School’s 9th grade class, no other math or reading scor
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Math_by_Grade2.png)
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Reading_by_Grade2.png)
 
-The top five and bottom schools remained the same. Thomas High School remained in the top 5, despite adding NaNs to the 9th grade class and subsequently lower overall reading and math scores.
-
-#### Top Five Schools
-![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Top_5_1.png)
-
-#### Updated Top Schools
-![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Top_5_2.png)
-
-School spending should not have changed. Although an error is indicated for the updated passing math and reading percentages. 
-
-#### Overall Spending
-![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Spending1.png)
-
-#### Updated Spending
-![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Spending2.png)
-
-Scores by school size should not have changed either. Although an error is indicated for the updated passing math and reading percentages.
-
-#### Scores by School Size
-![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Size1.png)
-
-#### Updated Scores by School Size
-![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Size2.png)
-
-Scores by school type also did not change.
-
-#### Scores by School Type
-![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/Original/Type1.png)
-
-#### Updated Scores by School Type
-![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Type2.png)
+-The top five and bottom schools remained the same. Thomas High School is still considered a top five school, despite adding NaNs to the 9th grade class and subsequently lower overall reading and math scores.
+-School spending should not have changed. Although an error is indicated for the updated passing math and reading percentages. 
+-Scores by school size should not have changed either. Although an error is indicated for the updated passing math and reading percentages.
+-Scores by school type also did not change.
 
 ## Challenge Summary
 There were four key changes in the updated school district analysis following the replacment of Thomas High Schools 9th grade math and reading scores:
