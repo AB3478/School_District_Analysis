@@ -30,8 +30,11 @@ Outside of Thomas High School’s 9th grade class, no other math or reading scor
 ![](https://github.com/AB3478/School_District_Analysis/blob/main/Images/THS_9th/Reading_by_Grade2.png)
 
 -The top five and bottom schools remained the same. Thomas High School is still considered a top five school, despite adding NaNs to the 9th grade class and subsequently lower overall reading and math scores.
+
 -School spending should not have changed. Although an error is indicated for the updated passing math and reading percentages. 
+
 -Scores by school size should not have changed either. Although an error is indicated for the updated passing math and reading percentages.
+
 -Scores by school type also did not change.
 
 ## Challenge Summary
